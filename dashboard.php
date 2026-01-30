@@ -44,7 +44,7 @@ if(!isset($_SESSION['activeUser']))
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Logout</a>
+          <a class="nav-link" href="logout.php">Logout</a>
         </li>
       </ul>
       <form class="d-flex">
